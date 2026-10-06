@@ -1,0 +1,6 @@
+_MACOSX/
+.venv/
+.vscode/
+assets/
+data/
+work/
